@@ -1,0 +1,6 @@
+opencv-python
+easyocr
+pyttsx3
+transformers
+torch
+numpy
